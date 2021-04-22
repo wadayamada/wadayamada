@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 | 所属  | 横浜国立大学 大学院 情報学プログラム 修士1年 |
 | Twitter | https://twitter.com/wadayamada                  |
 | Qiita   | https://qiita.com/wadayamada                    |
+| はてなブログ   | https://person.hatenablog.jp                   |
 | 英語力  | TOEIC 765(2019年11月)                           |
 
 ## インターン・アルバイト経験
