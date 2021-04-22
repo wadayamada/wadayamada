@@ -46,3 +46,11 @@ Here are some ideas to get you started:
 | 2019年10月 | [Subsumption Architectureによる知的な振る舞いの創発](https://person.hatenablog.jp/entry/2019/10/03/065538) | SB-MASE |
 | 2018年8月  | [オススメの芸能人をレコメンドするアプリの実装](https://person.hatenablog.jp/entry/2018/08/13/154822) | Python, Chainer, Auto Encoder     |
 | 2018年4月  | [強化学習:モンテカルロとQ\-Learningの実装](https://person.hatenablog.jp/entry/2018/04/08/210654) | Python     |
+
+# 技術記事
+
+| 年月      | 概要                                                         | 使用言語・環境  |
+| --------- | ------------------------------------------------------------ | --------------- |
+| 2020年9月 | [LeetCode「200\. Number of Islands」解説 \- Qiita](https://qiita.com/wadayamada/items/c0ac42d1c323a975941d) | Python          |
+| 2020年9月 | [【Rails】LINEBotでPush送信 \- Qiita](https://qiita.com/wadayamada/items/0e90e413adff2023e741) | Rails, LINE Bot |
+| 2020年9月 | [RailsのViewに複数のsubmitボタンを設置して押されたボタンの値を取得する \- Qiita](https://qiita.com/wadayamada/items/79c2a1c1a49ce5d70f40) | Rails           |
