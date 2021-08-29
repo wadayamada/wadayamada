@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 ## 基本情報
 | 項目 | 概要                                         |
 | ------- | ----------------------------------------------- |
-| 名前    | 和田隆道                                        |
 | 所属  | 横浜国立大学 大学院 情報学プログラム 修士1年 |
 | Twitter | https://twitter.com/wadayamada                  |
 | Qiita   | https://qiita.com/wadayamada                    |
