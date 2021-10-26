@@ -31,6 +31,11 @@ Here are some ideas to get you started:
 | 2021年2月-2021年3月 | 株式会社サイバーエージェント | [ゲームAPI開発](https://github.com/wadayamada/game-api) | Golang, MySQL |
 | 2019年6月-2021年2月 | アイタックソリューションズ株式会社 | 入退室管理システム | Python, Tensorflow         |
 
+### 短期インターン
+- LINE株式会社
+- サイボウズ株式会社
+- 株式会社ワンキャリア
+
 ## 学歴
 
 | 年月                | 学校名                               | 備考                                                         |
