@@ -33,9 +33,9 @@ Here are some ideas to get you started:
 | 2019年6月-2021年2月 | アイタックソリューションズ株式会社 | 入退室管理システム | Python, Tensorflow         |
 
 ### 短期インターン
-- LINE株式会社
-- サイボウズ株式会社
-- 株式会社ワンキャリア
+- LINE株式会社(8月、2week)
+- サイボウズ株式会社(8月、1week)
+- 株式会社ワンキャリア(7月、2day)
 
 ## 学歴
 
