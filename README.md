@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## 基本情報
 | 項目 | 概要                                         |
 | ------- | ----------------------------------------------- |
-| 所属  | 横浜国立大学 大学院 情報学プログラム 修士1年 |
+| 所属  | 横浜国立大学 大学院 情報学プログラム 修士2年 |
 | Twitter | https://twitter.com/wadayamada                  |
 | Qiita   | https://qiita.com/wadayamada                    |
 | はてなブログ   | https://person.hatenablog.jp                   |
